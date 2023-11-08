@@ -1,3 +1,3 @@
 Vehicles and Prices
 
-https://surendharhi5.github.io/Promise-Task3/
+Output URL : https://promise-api-task3-surendhar-cs-projects.vercel.app/
